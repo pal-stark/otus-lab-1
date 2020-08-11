@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 /*
- *
+ *  Metrics generator
  */
 
 //remove script name
